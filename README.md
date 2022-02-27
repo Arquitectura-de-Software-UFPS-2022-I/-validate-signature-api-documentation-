@@ -66,6 +66,7 @@ Request Link
   }
   ```
   Nota: Remover del base64 al inicio 'data:image/jpeg;base64,' si su conversor lo añadio
+  
  Response Body
  
  ```
