@@ -57,7 +57,7 @@ Endpoint |HTTP Method | CRUD Method | Result
 
 Request Link
  ```
-  --- /signature-recognition/
+  http://52.240.59.172:8000/signature-recognition/
    ```
  Request Body
  ```  
